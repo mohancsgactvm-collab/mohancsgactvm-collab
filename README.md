@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm MOHAN
 
-<!--
-**mohancsgactvm-collab/mohancsgactvm-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MERN Full Stack Developer
 
-Here are some ideas to get you started:
+I'm an aspiring MERN Stack Developer passionate about building modern web applications and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **MERN Stack**
+- 💻 Interested in Full Stack Web Development
+- 🔒 Exploring Cyber Security
+- 🎯 Goal: Become a Professional Software Engineer
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancsgactvm-collab&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancsgactvm-collab&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohancsgactvm-collab&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/mohancsgactvm-collab
+- Portfolio: https://mohancsgactvm-collab-portfolio.vercel.app/
+
+---
+
+⭐ Thanks for visiting my profile!
