@@ -4,6 +4,11 @@
 <div align="center">
 
 # 👋 Hi, I'm MOHAN
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohancsgactvm-collab/portfolio/main/profile.jpg"
+       alt="Mohan"
+       width="170">
+</p>
 
 ### MERN Full Stack Developer
 
