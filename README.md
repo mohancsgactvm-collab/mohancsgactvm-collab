@@ -4,11 +4,7 @@
 <div align="center">
 
 # 👋 Hi, I'm MOHAN
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohancsgactvm-collab/portfolio/main/profile.jpg"
-       alt="Mohan"
-       width="170">
-</p>
+<img src="https://raw.githubusercontent.com/mohancsgactvm-collab/portfolio/main/profile-new.jpg" width="170" alt="Mohan">
 
 ### MERN Full Stack Developer
 
