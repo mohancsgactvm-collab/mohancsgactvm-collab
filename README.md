@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg"
+  <img src="./assets/banner.jpg"
        width="100%"
        alt="MOHAN Banner">
 </p>
