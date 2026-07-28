@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="MOHAN Banner">
+  <img src="./assets/banner.svg"
+       width="100%"
+       alt="MOHAN Banner">
 </p>
+
 <div align="center">
 
 # 👋 Hi, I'm MOHAN
-<img src="https://raw.githubusercontent.com/mohancsgactvm-collab/portfolio/main/profile.jpg" width="170" alt="Mohan">
 
 ### MERN Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
 
 </div>
-
 ---
 
 ## 🚀 About Me
