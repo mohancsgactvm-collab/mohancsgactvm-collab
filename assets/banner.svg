@@ -1,35 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+xmlns="http://www.w3.org/2000/svg">
 
-<rect width="1200" height="300" fill="#0d1117"/>
+<defs>
 
-<text x="600" y="120"
-font-size="64"
-fill="#58a6ff"
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="50%" stop-color="#161B22"/>
+<stop offset="100%" stop-color="#1F2937"/>
+</linearGradient>
+
+<linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00E5FF"/>
+<stop offset="100%" stop-color="#00FFA3"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<circle cx="100" cy="80" r="5" fill="#00E5FF">
+<animate attributeName="cy"
+values="80;60;80"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1100" cy="220" r="5" fill="#00FFA3">
+<animate attributeName="cy"
+values="220;200;220"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+<text
+x="600"
+y="120"
 text-anchor="middle"
+font-size="70"
 font-family="Segoe UI"
-font-weight="bold">
+font-weight="bold"
+fill="url(#title)"
+filter="url(#glow)">
 
 MOHAN
 
 </text>
 
-<text x="600" y="180"
-font-size="30"
-fill="#ffffff"
+<text
+x="600"
+y="175"
 text-anchor="middle"
-font-family="Segoe UI">
+font-size="30"
+font-family="Segoe UI"
+fill="white">
 
 MERN Full Stack Developer
 
 </text>
 
-<text x="600" y="235"
-font-size="22"
-fill="#8b949e"
+<text
+x="600"
+y="220"
 text-anchor="middle"
-font-family="Segoe UI">
+font-size="20"
+font-family="Segoe UI"
+fill="#8B949E">
 
-JavaScript • React • Node.js • MongoDB
+JavaScript • React • Node.js • MongoDB • Express
 
 </text>
 
