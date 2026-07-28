@@ -1,3 +1,12 @@
+<div align="center">
+
+# 👋 Hi, I'm MOHAN
+
+### MERN Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
+
+</div>
 # Hi 👋, I'm MOHAN
 
 ## MERN Full Stack Developer
@@ -18,8 +27,8 @@ I'm an aspiring MERN Stack Developer passionate about building modern web applic
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode&perline=5"/>
 </p>
 
 ---
