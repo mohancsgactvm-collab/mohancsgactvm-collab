@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohancsgactvm-collab&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohancsgactvm-collab&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 ---
 
