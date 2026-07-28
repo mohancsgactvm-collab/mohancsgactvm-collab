@@ -39,6 +39,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohancsgactvm-collab&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohancsgactvm-collab&theme=tokyonight)
@@ -53,3 +60,7 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohancsgactvm-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
