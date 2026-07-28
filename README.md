@@ -53,6 +53,13 @@
 </p>
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohancsgactvm-collab&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohancsgactvm-collab&theme=tokyonight)
