@@ -40,13 +40,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohancsgactvm-collab&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
-</p>
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
