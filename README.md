@@ -46,6 +46,13 @@
 </p>
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohancsgactvm-collab/mohancsgactvm-collab/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohancsgactvm-collab&theme=tokyonight)
