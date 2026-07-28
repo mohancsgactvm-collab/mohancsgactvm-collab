@@ -56,7 +56,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohancsgactvm-collab&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohancsgactvm-collab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
